@@ -1,0 +1,4 @@
+En este fichero lo mismo debemos añadir
+unas dos lineas a este fichero y resolver conflictos.
+
+adios.
